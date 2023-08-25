@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inspire-Board/static/css/main.bf7b2159.css",
+    "main.js": "/Inspire-Board/static/js/main.e8c327a8.js",
+    "static/js/787.37a9c5bb.chunk.js": "/Inspire-Board/static/js/787.37a9c5bb.chunk.js",
+    "index.html": "/Inspire-Board/index.html",
+    "main.bf7b2159.css.map": "/Inspire-Board/static/css/main.bf7b2159.css.map",
+    "main.e8c327a8.js.map": "/Inspire-Board/static/js/main.e8c327a8.js.map",
+    "787.37a9c5bb.chunk.js.map": "/Inspire-Board/static/js/787.37a9c5bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf7b2159.css",
+    "static/js/main.e8c327a8.js"
+  ]
+}
